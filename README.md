@@ -1,7 +1,17 @@
 ## Hi there 👋
 
 ## Skills
+
+<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/springsecurity-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+
+ ## Solved.ac
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2_hen715)](https://solved.ac/2_hen715)
 
 <!--
 **hen715/hen715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
