@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/amazonwebservices-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
  ## Solved.ac
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=2_hen715)](https://solved.ac/2_hen715)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hen715)](https://solved.ac/hen715)
 
 <!--
 **hen715/hen715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
